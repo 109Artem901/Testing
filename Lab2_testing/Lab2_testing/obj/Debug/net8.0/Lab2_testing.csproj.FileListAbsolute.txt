@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\bin\Debug\net8.0\Lab2_testing.deps.json
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\bin\Debug\net8.0\Lab2_testing.dll
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\bin\Debug\net8.0\Lab2_testing.pdb
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\Lab2_testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\Lab2_testing.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\Lab2_testing.AssemblyInfo.cs
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\Lab2_testing.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\Lab2_testing.dll
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\refint\Lab2_testing.dll
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\Lab2_testing.pdb
+C:\Users\Artem\source\repos\Lab2_testing\Lab2_testing\obj\Debug\net8.0\ref\Lab2_testing.dll
