@@ -1,0 +1,5 @@
+<map id="lab2.Agency" name="lab2.Agency">
+<area shape="rect" id="Node000001" title="Класс Agency, является основным классом по отношению к Tour." alt="" coords="5,96,99,123"/>
+<area shape="rect" id="Node000002" href="$classlab2_1_1_tour.html" title="Класс Tour,вспомогательный класс, для класса Agency." alt="" coords="15,5,89,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,48,55,95,49,95,49,48"/>
+</map>

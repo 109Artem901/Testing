@@ -1,0 +1,5 @@
+C:\Users\Artem\Documents\GitHub\Testing\QA_Lab3_Danilushkin\Lab3\Lab3_qa\Lab3_qa\obj\Debug\net8.0\Lab3_qa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Documents\GitHub\Testing\QA_Lab3_Danilushkin\Lab3\Lab3_qa\Lab3_qa\obj\Debug\net8.0\Lab3_qa.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\GitHub\Testing\QA_Lab3_Danilushkin\Lab3\Lab3_qa\Lab3_qa\obj\Debug\net8.0\Lab3_qa.AssemblyInfo.cs
+C:\Users\Artem\Documents\GitHub\Testing\QA_Lab3_Danilushkin\Lab3\Lab3_qa\Lab3_qa\obj\Debug\net8.0\Lab3_qa.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\GitHub\Testing\QA_Lab3_Danilushkin\Lab3\Lab3_qa\Lab3_qa\obj\Debug\net8.0\Lab3_qa.sourcelink.json
